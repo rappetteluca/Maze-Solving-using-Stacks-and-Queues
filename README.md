@@ -16,7 +16,7 @@ A program that implements a maze solving algorithm using a stack or queue.
 The maze solution is shown by highlighting the tiles checked by the algorithm
 using either a stack or a queue for storing the tiles already seen. The darker the tile,
 the more times the algorithm stored that particular tile in memory.
-The is an additional readme with the original assignment instructions.
+There is an additional readme with the original assignment instructions.
 
 The file is called _README.pdf_.
 
